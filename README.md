@@ -14,7 +14,7 @@ $ ./eclang # Start eclang
 Running Examples
 
 ```
-$ ./eclang ../examples/hello-world.eclang
+$ ./eclang ../examples/hello-world.ec
 Hello, world!
 ```
 
